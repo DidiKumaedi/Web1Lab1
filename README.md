@@ -14,6 +14,5 @@ A. Laporan Praktikum
 ![Screenshot (80)](https://user-images.githubusercontent.com/101849655/161196747-fdec8e23-7d11-4be9-9434-135da80e8c38.png)
 ![Screenshot (82)](https://user-images.githubusercontent.com/101849655/161196758-95561095-c16d-44b6-8c8e-fcfb4b8182f1.png)
 
-4. Menyisipkan Gambar
 
 
